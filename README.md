@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathwiklokam" alt="sathwiklokam" /></a> </p>
 
-- 🔭 I’m currently working on [Linux Pilot](https://github.com/SathwikLokam/Linux-Pilot)
+- 🔭 I’m currently working on [Distributive Stream](https://github.com/SathwikLokam/Distributive-Streams.git)
 
 - 🌱 I’m currently learning **Cybersecurity and Deep Learning with Python**
 
